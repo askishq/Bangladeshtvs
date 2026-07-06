@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://crichd.art/assets/uploads/channels/3.png" group-title="CricHD 24/7", Sky Sports Cricket
+https://cdn10.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=HKHvgWYhVYg_sq5Xwp2vtg&expires=1783338743
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+
 #EXTINF:-1,Nagorik TV
 http://tv.bee1tv.xyz:8080/play/dayYLfbfXJcMg-795P5x5ccMZCXXg9hf1TireAvJbTVm8S1qiZ5CGttt8w-axJhWB96aScgsce_-7Upetq480Q/ts
 
